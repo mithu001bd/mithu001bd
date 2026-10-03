@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**mithu001bd/mithu001bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..# Hi there, I'm Mithun Rahman 👋
+# Hi there, I'm Mithun Rahman 👋
 ### Full-Stack Web Developer & UI/UX Specialist
 
 Frontend to backend solutions with clean code, ultra-fast performance, and user-centered design.
@@ -38,11 +30,4 @@ Frontend to backend solutions with clean code, ultra-fast performance, and user-
 
 ### 📬 Connect With Me
 - 💼 **Portfolio:** [https://mithu001bd.github.io/](https://mithu001bd.github.io/)
-- 🤝 **Status:** Available for freelance projects, custom web apps & full-time roles..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 **Status:** Available for freelance projects, custom web apps & full-time roles.
