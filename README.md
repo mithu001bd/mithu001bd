@@ -7,6 +7,7 @@ Frontend to backend solutions with clean code, ultra-fast performance, and user-
 
 ### 🌐 Live Portfolio & Featured Showcases
 - 🌟 **Main Interactive Portfolio:** [mithu001bd.github.io](https://mithu001bd.github.io/)
+- 🛍️ **Restaurant (Foode):** [Live Demo](https://mithu001bd.github.io/foodie/)
 - 🛍️ **ApexMart Storefront (E-Commerce):** [Live Demo](https://mithu001bd.github.io/commerce-demo/)
 - 📊 **FinCore ERP (Enterprise Fintech):** [Live Demo](https://mithu001bd.github.io/fintech-erp-deomo/)
 - ⚡ **Nexus Odds (Real-Time Gaming):** [Live Demo](https://mithu001bd.github.io/gaming-demo/)
